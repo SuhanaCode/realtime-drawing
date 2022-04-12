@@ -22,7 +22,7 @@ function modelLoaded(){
 
 function draw(){
   document.getElementById("square_side").innerHTML = "Height and Width of the Square is = " + difference + "px";
-  background("#969A97");
+  background('#969A97');
   fill('#F90093');
   stroke('#F90093');
 
